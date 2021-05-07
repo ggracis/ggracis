@@ -7,8 +7,7 @@
 Desarrollador web full stack, diseñador multimedial y explorador de nuevas tecnologías
 </h3>
 
-<p align="center">Mi profesión de base es desarrollador web, profesionalizandome en DigitalHouse. Aunque el diseño gráfico y la multimedia siempre fueron mi ambición, conjugar esos mundos es una diversión para mi. 
-<br /><br /></p>
-<p align="center">
+<p align="justify">Mi profesión de base es desarrollador web, profesionalizandome en DigitalHouse. Aunque el diseño gráfico y la multimedia siempre fueron mi ambición, conjugar esos mundos es una diversión para mi. </p>
+<p align="justify">
   Como hobby me encuentro en un proyecto de maquinas CNC con la ambición de poder crear una maquina de bajo costo que genere fuentes de trabajo.<br />
 </p>
